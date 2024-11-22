@@ -35,5 +35,5 @@ John then updated the ticket priorities to reflect the severity of the issue.<br
 <img width="766" alt="updated ticket pri" src="https://github.com/user-attachments/assets/746a6063-74ae-4b4a-8b93-71f76522382b">
 
 <h2>4. Ticket Resolution</h2>
-The ticket was then taken over by Jane Doe, who proceeded to resolve the issue reported by the end user, Ken.
+The ticket was then taken over by Jane Doe, who proceeded to resolve the issue reported by the end user, Ken.<br>
 <img width="480" alt="jane updated" src="https://github.com/user-attachments/assets/43d651e6-ed38-4457-8b1e-118efba75a7c">
