@@ -23,3 +23,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+<h2>1. Creating a Ticket</h2>
+A ticket was created by the end user, Ken, with an issue summary stating that the entire Mobile/Online Banking System is down.
+
+<h2>2. Agent Interaction with Ticket</h2>
+John Doe logged in as an agent and reviewed the ticket, observing the default ticket priorities.
+John then updated the ticket priorities to reflect the severity of the issue.
+
+<h2>4. Ticket Resolution</h2>
+The ticket was then taken over by Jane Doe, who proceeded to resolve the issue reported by the end user, Ken.
