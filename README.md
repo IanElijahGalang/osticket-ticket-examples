@@ -26,10 +26,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>1. Creating a Ticket</h2>
 A ticket was created by the end user, Ken, with an issue summary stating that the entire Mobile/Online Banking System is down.
+<img width="838" alt="banking system down" src="https://github.com/user-attachments/assets/57720de6-554f-4fb8-829b-548b784bd924">
 
 <h2>2. Agent Interaction with Ticket</h2>
 John Doe logged in as an agent and reviewed the ticket, observing the default ticket priorities.
-John then updated the ticket priorities to reflect the severity of the issue.
+John then updated the ticket priorities to reflect the severity of the issue.<br>
+<img width="763" alt="ex1  default ticket pri" src="https://github.com/user-attachments/assets/8be0d954-db53-47f9-94e4-67a7a4bc09c3">
+<img width="766" alt="updated ticket pri" src="https://github.com/user-attachments/assets/746a6063-74ae-4b4a-8b93-71f76522382b">
 
 <h2>4. Ticket Resolution</h2>
 The ticket was then taken over by Jane Doe, who proceeded to resolve the issue reported by the end user, Ken.
+<img width="480" alt="jane updated" src="https://github.com/user-attachments/assets/43d651e6-ed38-4457-8b1e-118efba75a7c">
